@@ -1,8 +1,8 @@
-.h1
+h1
 {
     text-align: center;
 }
-.footer
+footer
 {
     text-align: center;
 }
@@ -107,5 +107,4 @@
     .column
     {
         margin: 10px 25px 10px;
-    }
 }
